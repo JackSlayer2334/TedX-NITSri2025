@@ -17,11 +17,11 @@ Setup
 
 # Clone the repository
 
-git clone <YOUR_GIT_URL>
+git clone https://github.com/JackSlayer2334/TedX-NITSri2025.git
 
 # Move into the project folder
 
-cd <YOUR_PROJECT_NAME>
+cd TedX-NITSri2025
 
 # Install dependencies
 
